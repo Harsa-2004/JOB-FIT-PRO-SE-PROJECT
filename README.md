@@ -1,1 +1,2 @@
 # JOB-FIT-PRO-SE-PROJECT
+              Job FitPro is an innovative platform designed to automate and enhance the recruitment process by leveraging Meta Llama 3.1 8B, a large language model. It streamlines resume filtering, candidate matching, and ranking, allowing companies to efficiently identify top talent while minimizing manual effort. The platform is tailored to improve accuracy, scalability, and the overall candidate experience, making recruitment faster, fairer, and more effective.
