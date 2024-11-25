@@ -1,4 +1,3 @@
-#JOB FIT PRO 
 JobFit Pro is a Django-based web application designed to streamline the job application and recruitment process. It allows candidates to apply for jobs and enables job posters to analyze resumes using AI-powered insights.
 
 Features
