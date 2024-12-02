@@ -8,7 +8,7 @@ JobFit Pro is a Django-based web application designed to streamline the job appl
 
 **Job Seekers:**
 
-    > Create an account, upload resumes, and apply for job postings.
+   > Create an account, upload resumes, and apply for job postings.
 
 
 
@@ -16,13 +16,13 @@ JobFit Pro is a Django-based web application designed to streamline the job appl
     
 **Job Posters:**
 
-    > Post job openings and analyze applicants' resumes using AI.
+   > Post job openings and analyze applicants' resumes using AI.
 
 
     
 **AI-Powered Resume Analysis:**
 
-    > Leveraging the Llama 3.1 model via the Ollama platform, resumes are analyzed to provide actionable insights.
+   > Leveraging the Llama 3.1 model via the Ollama platform, resumes are analyzed to provide actionable insights.
 
 
 
