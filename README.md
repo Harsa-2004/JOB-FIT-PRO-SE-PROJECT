@@ -27,13 +27,6 @@ JobFit Pro is a Django-based web application designed to streamline the job appl
    > Leveraging the Llama 3.1 model via the Ollama platform, resumes are analyzed to provide actionable insights.
 
 
-
-    
-**Job Posting Management:**
-
-
-   > Job posters can manage job listings and view applications from candidates.
-
     
 
 **Technology Stack**
